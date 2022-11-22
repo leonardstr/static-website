@@ -1,6 +1,6 @@
-# staticwebsite
+# A static website
 
-This is a simple static website, with an index.html, a css file and a javascript file. 
+This is a simple static website, with an html file, a css file and a javascript file. 
 
 You could host this website directly in a storage account in Azure. 
 
@@ -12,6 +12,4 @@ In short:
  - navigate to the storage account, and then to 'Static website' to find the generated url
  - example: https://storagestaticwebsite123.z6.web.core.windows.net/
 
-
 For more info: https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website-how-to
- 
